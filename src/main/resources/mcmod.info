@@ -1,0 +1,16 @@
+[
+{
+  "modid": "quirkymachines",
+  "name": "Quirky Machines",
+  "description": "Adds some strange machines to minecraft",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DeaSTL","adnre"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
